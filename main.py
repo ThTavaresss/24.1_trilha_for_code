@@ -1,1 +1,3 @@
-print("Hello World")
+var1 = 10
+
+print(var1)
