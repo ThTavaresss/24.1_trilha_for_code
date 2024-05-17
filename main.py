@@ -1,3 +1,3 @@
-var2 = 20
+var2 = 10
 
 print(var2 + 2)
